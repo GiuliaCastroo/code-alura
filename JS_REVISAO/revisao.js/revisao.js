@@ -43,9 +43,9 @@
 
        /*funções*/
 
+/*
 
-
-function pulaLinha ()  {  /*Contruindo uma função para pular a linha*/ 
+function pulaLinha ()  {  Contruindo uma função para pular a linha
         
         document.write ("<br>");
 }  
@@ -59,4 +59,4 @@ document.write("Joaquim tem " + (ano - 1996) + " anos");
 pulaLinha();
 
 ano = 2017;
-document.write("Barney tem " + (ano - 1976) + " anos");
+document.write("Barney tem " + (ano - 1976) + " anos");*/
